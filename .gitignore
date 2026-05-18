@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS junk
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Environment secrets
+.env
